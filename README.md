@@ -1,2 +1,3 @@
-# Comando-Linux
-Esse repositório documenta prints de comandos Linux, contendo no total 10 comandos. 
+<h1 align = center> Comando-Linux </h1>
+
+Bem-vindo a um guia prático de instalação de um Docker, com documentação em prints.
