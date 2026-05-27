@@ -1,7 +1,7 @@
 <h1 align = center> 🐧 Comando-Linux 🐧 </h1>
 
 <p align = center>
-  Bem-vindo a um guia prático de instalação de um Docker, com documentação em prints.
+  Bem-vindo a um documentação de 10 comandos Linux, com registro em prints.
 </p>
 
 ## ls 
@@ -19,14 +19,14 @@
 ## cd snap
 <img width="229" height="44" alt="image" src="https://github.com/user-attachments/assets/8dd50178-aa5f-4e11-ae67-c72df322c3fd" />
 
-
 ## mkdir --help 
 <img width="707" height="339" alt="image" src="https://github.com/user-attachments/assets/ae81121f-6723-40e2-9e62-5ea0ef56cf9b" />
 
 ## mkdir teste
 <img width="823" height="59" alt="image" src="https://github.com/user-attachments/assets/28423022-047a-4b66-a325-7ea0bd5e91c0" />
 
-## ls  
+## mv teste teste1
+<img width="822" height="84" alt="image" src="https://github.com/user-attachments/assets/6acc1c69-5fab-4424-be04-ad0b90a24af0" />
 
 ## uname -r
 <img width="258" height="43" alt="image" src="https://github.com/user-attachments/assets/c7a18eb9-50c7-4b71-837e-0c0822da123f" />
