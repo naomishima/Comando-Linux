@@ -23,7 +23,9 @@
 ## mkdir --help 
 <img width="707" height="339" alt="image" src="https://github.com/user-attachments/assets/ae81121f-6723-40e2-9e62-5ea0ef56cf9b" />
 
-## ls 
+## mkdir teste
+<img width="823" height="59" alt="image" src="https://github.com/user-attachments/assets/28423022-047a-4b66-a325-7ea0bd5e91c0" />
+
 ## ls  
 
 ## uname -r
