@@ -5,7 +5,10 @@
 </p>
 
 ## ls 
-<img width="1071" height="203" alt="image" src="https://github.com/user-attachments/assets/064814b0-975b-45eb-9079-501164aad676" />
+<img width="433" height="63" alt="image" src="https://github.com/user-attachments/assets/4a388abe-c669-4082-85a2-d45cf1474383" />
+
+## ls /
+<img width="805" height="73" alt="image" src="https://github.com/user-attachments/assets/cbcda1dc-2fde-4f4f-90f1-ffbc78579bea" />
 
 ## pwd
 <img width="477" height="71" alt="image" src="https://github.com/user-attachments/assets/04b594f6-7ce5-46fd-9359-b405a2927a91" />
@@ -17,11 +20,11 @@
 <img width="229" height="44" alt="image" src="https://github.com/user-attachments/assets/8dd50178-aa5f-4e11-ae67-c72df322c3fd" />
 
 
+## mkdir --help 
+<img width="707" height="339" alt="image" src="https://github.com/user-attachments/assets/ae81121f-6723-40e2-9e62-5ea0ef56cf9b" />
+
 ## ls 
-## ls 
-## ls 
-## ls 
-## 
+## ls  
 
 ## uname -r
 <img width="258" height="43" alt="image" src="https://github.com/user-attachments/assets/c7a18eb9-50c7-4b71-837e-0c0822da123f" />
